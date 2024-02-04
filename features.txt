@@ -1,0 +1,21 @@
+User Profiles: Personalized profiles for students and alumni, highlighting academic and professional achievements.
+
+News Feed: A central feed for updates, events, and announcements from the college and alumni.
+
+Lost&Found Reunify: It would serve as a platform for users to report lost items, and others to post found items, fostering a helpful and collaborative environment within the college community.
+
+Messaging: Direct messaging to facilitate communication between current students and alumni.
+
+Event Calendar: A shared calendar for college events, reunions, and alumni gatherings.
+
+Job Board: A platform for posting job opportunities and internships, benefiting both students and alumni.
+
+Alumni Stories: Showcasing success stories and journeys of notable alumni.
+
+Notifications: Push notifications for important updates, upcoming events, or relevant news.
+
+Class Schedule : A personalized schedule feature that allows students to easily view and manage their class timetable.
+
+Resource Hub: A centralized repository for academic resources, lecture notes, and study materials shared by fellow students.
+
+Blood group tracking and inform to all those who have the same blood group
